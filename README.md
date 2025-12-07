@@ -4,20 +4,23 @@ I'm on a journey to become a Python/Django developer, learning in public.
 
 ```mermaid
 gantt
-    title My Developer Journey 2026
-    dateFormat YYYY-MM
+    title Learning Timeline
+    dateFormat  YYYY-MM
     axisFormat %b %Y
     
-    section Python
-    Fundamentals :done, 2025-12, 1M
-    Advanced Topics :2026-01, 3M
+    section Completed ✅
+    Python Basics :done, 2025-12, 1M
+    Git & GitHub :done, 2025-12, 1M
     
-    section Web Development
-    Django Basics :2026-04, 3M
-    Portfolio Projects :2026-07, 3M
+    section In Progress 🔄
+    Python Loops :active, 2026-01, 1M
+    Python Functions :2026-02, 1M
+    OOP & Algorithms :2026-03, 1M
     
-    section Career
-    Job Preparation :2026-10, 3M
+    section Planned 📅
+    Django Basics :2026-04, 2M
+    Portfolio Projects :2026-06, 3M
+    Job Preparation :2026-09, 3M
 ```
 
 
