@@ -2,6 +2,25 @@
 
 I'm on a journey to become a Python/Django developer, learning in public.
 
+```mermaid
+gantt
+    title My Developer Journey 2026
+    dateFormat YYYY-MM
+    axisFormat %b %Y
+    
+    section Python
+    Fundamentals :done, 2025-12, 1M
+    Advanced Topics :2026-01, 3M
+    
+    section Web Development
+    Django Basics :2026-04, 3M
+    Portfolio Projects :2026-07, 3M
+    
+    section Career
+    Job Preparation :2026-10, 3M
+```
+
+
 ## 🚀 Current Project
 **[python_learning_journey](https://github.com/gen-comf/python_learning_journey)** - My structured learning path from Python basics to web development.
 
