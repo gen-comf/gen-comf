@@ -1,16 +1,31 @@
-## Hi there 👋
+### 👋 Hello, I'm Ivan!
 
-<!--
-**gen-comf/gen-comf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm on a journey to become a Python/Django developer, learning in public.
 
-Here are some ideas to get you started:
+## 🚀 Current Project
+**[python_learning_journey](https://github.com/gen-comf/python_learning_journey)** - My structured learning path from Python basics to web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Current Progress
+- ✅ Git & GitHub setup completed
+- ✅ Python basics: variables, conditionals, data types  
+- 🔄 Learning: loops and functions
+- ⏳ Next: Django for web development
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gen-comf&show_icons=true&theme=default)
+
+## 🎯 2026 Goals
+1. Complete "Поколение Python" course
+2. Build first Django project
+3. Create developer portfolio
+4. Contribute to open source
+
+## 📫 Connect
+- GitHub: [@gen-comf](https://github.com/gen-comf)
+- Learning in public, one commit at a time!
