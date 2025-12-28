@@ -2,22 +2,18 @@
 
 I'm on a journey to become a Python/Django developer, learning in public.
 
-```mermaid
-gantt
-    title Learning Timeline (Updated: Dec 2025)
-    dateFormat  YYYY-MM-DD
-    
-    section Python Fundamentals 🐍
-    Basics & Syntax :done, 2025-11-01, 15d
-    Conditionals & Loops :done, 2025-11-15, 20d
-    Strings & Lists :done, 2025-12-10, 25d
-    Functions (Current) :active, 2025-12-28, 30d
-    
-    section Next Steps 🚀
-    Dictionaries & Files :after func1, 25d
-    Django Basics :after func2, 60d
-    First Web Project :after func3, 45d
-```
+## 📈 Learning Progress & Metrics
+
+**«Поколение Python» Course Progress:** ▰▰▰▰▰▰▰▰▱▱ **75%** (12/16 modules completed)  
+**Total Problems Solved:** **180+** (including all exams)  
+**Current Streak:** Learning daily since November 2025  
+**Active Focus:** Functions (Stepik Module 13)  
+
+### 🗓️ Timeline Outlook
+- **DEC 2025:** Complete Functions (13.4-13.6)
+- **JAN 2026:** Advanced Python (Dictionaries, OOP, Files)
+- **FEB-MAR 2026:** Django Fundamentals & First Web App
+- **APR-JUN 2026:** Portfolio Building & Job Prep
 
 
 ## 🚀 Current Project
